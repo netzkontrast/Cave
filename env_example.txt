@@ -1,0 +1,13 @@
+# OpenAI API Configuration
+OPENAI_API_KEY=your_openai_api_key_here
+
+# Database Configuration
+DATABASE_URL=sqlite:///./cave.db
+# For PostgreSQL: postgresql://user:password@localhost/cave_db
+
+# Debug Mode
+DEBUG=True
+
+# Server Configuration
+HOST=0.0.0.0
+PORT=8000 
